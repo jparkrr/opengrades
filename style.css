@@ -1,0 +1,10 @@
+.question rect {
+2   stroke: white;
+3   fill: steelblue;
+4 }
+
+.well .btn {
+	position:absolute;
+	top: 5px;
+	right: 5px;
+}
